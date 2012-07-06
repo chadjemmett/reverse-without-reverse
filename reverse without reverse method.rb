@@ -1,4 +1,4 @@
-#reverse without reverse String method.
+#reverse without reverse String method. July 07 2012.
 
 class String
   def reverse_without_reverse

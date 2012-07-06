@@ -1,6 +1,8 @@
 #reversing a string without using reverse method. June 20, 2012
+#wrote this into a string method. It's in the same file.
 
 #
+
 
 
   
